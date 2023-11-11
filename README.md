@@ -1,2 +1,2 @@
 # MobilOyunAkademisi
- İlk Projem
+ Erzurum Mobil Oyun Akademisi
